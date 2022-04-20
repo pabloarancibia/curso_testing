@@ -13,7 +13,7 @@
 
 const { assert } = require("chai");
 
-const expect = require("chai").expect;
+//const expect = require("chai").expect;
 const Lista = require("../src/lista.js")
 
 describe ("lista de pares clave:valor", function(){
